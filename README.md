@@ -1,6 +1,7 @@
-#### Color Generator
+## Tints & Shades
+[Deploy link](https://project-tints-and-shades.netlify.app/)
 
-###### we provide a color as hex input and it generates tints and shades of that color. And to copy those color values we simply click on them.
+### we provide a color as hex input and it generates tints and shades of that color. And to copy those color values we simply click on them.
 
 - external library for conversion of a given color into tints and shades. [values.js](https://github.com/noeldelgado/values.js)
 
